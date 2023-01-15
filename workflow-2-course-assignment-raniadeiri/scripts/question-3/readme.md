@@ -1,0 +1,1 @@
+## to run this open terminal 1- npm i then 2- npm test
